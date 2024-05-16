@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ae5bd90-c72d-4757-a7f1-2f93fdbdedea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RevisaoPOO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/poo/screenmatch/modelos/Episodio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/poo/screenmatch/modelos/Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/poo/screenmatch/modelos/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/poo/screenmatch/modelos/Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/poo/screenmatch/modelos/Titulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculadoradetempo/CalculadoraDeTempo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculadoradetempo/Classificacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculadoradetempo/FiltroRecomendacao.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ae5bd90-c72d-4757-a7f1-2f93fdbdedea" name="Changes" comment="First Push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,11 +66,32 @@
       <option name="presentableId" value="Default" />
       <updated>1715776922549</updated>
       <workItem from="1715776923631" duration="6176000" />
-      <workItem from="1715859878447" duration="8419000" />
+      <workItem from="1715859878447" duration="9170000" />
     </task>
+    <task id="LOCAL-00001" summary="First Push">
+      <option name="closed" value="true" />
+      <created>1715870314225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715870314225</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Push">
+      <option name="closed" value="true" />
+      <created>1715870408618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715870408618</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Push" />
   </component>
 </project>
