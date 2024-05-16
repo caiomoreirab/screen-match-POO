@@ -5,7 +5,7 @@ import calculadoradetempo.Classificacao;
 public class Episodio extends Titulo implements Classificacao {
     private int numero;
     private String nome;
-    private Serie serie;
+    private Series serie;
     private int totalDeVizualicoes;
 
     public int getNumero() {
@@ -25,11 +25,11 @@ public class Episodio extends Titulo implements Classificacao {
         this.nome = nome;
     }
 
-    public Serie getSerie() {
+    public Series getSerie() {
         return serie;
     }
 
-    public void setSerie(Serie serie) {
+    public void setSerie(Series serie) {
         this.serie = serie;
     }
 
